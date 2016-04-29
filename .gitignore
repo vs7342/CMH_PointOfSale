@@ -1,0 +1,2 @@
+# adding logs folder to ignore the log files
+logs/*
